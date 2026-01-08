@@ -27,6 +27,7 @@ With a strong background in Information Systems and operational leadership, I sp
 ### 1. 🦉 [Hayaanshufiya: EdTech SaaS Platform](https://hayaanshufiya.com)
 **(Live Product - Founder & Lead Developer)**
 **The Project:** A bootstrapped EdTech platform helping Israeli students master English for Psychometric & Amirnet exams.
+
 **The Tech:** `WordPress Core` `Custom PHP/JS` `OpenAI API Integration` `SQL`
 * **Business Impact:** Founded and scaled a digital product that improves student performance through personalized learning paths.
 * **Tech Highlight:** Integrated a custom AI agent to simulate exam questions and provide real-time feedback, significantly increasing user retention.
@@ -34,6 +35,7 @@ With a strong background in Information Systems and operational leadership, I sp
 ### 2. 🍄 [MUSH: Smart Farming AI Platform](https://github.com/yuvalmiron21/MUSH-Farm-management)
 **(Award-Winning Final Project)**
 **The Project:** A comprehensive IoT system for managing sterile mushroom farms with precision.
+
 **The Tech:** `Python` `IoT Sensors` `Facebook Prophet` `ARIMA`
 * **Data Science Focus:** Developed a predictive model to forecast crop yields based on humidity and CO2 levels.
 * **Result:** Enabled a data-driven reduction in operational waste by predicting growth cycles with 15% improved efficiency.
@@ -41,23 +43,26 @@ With a strong background in Information Systems and operational leadership, I sp
 ### 3. 🎬 [Cinematic Crises: Interactive Data Visualization](http://34.165.202.203/~a6/vis_course_final/)
 **(Live Interactive Dashboard)**
 **The Project:** An immersive dashboard analyzing 50+ years of film data correlated with global geopolitical crises.
+
 **The Tech:** `D3.js v7` `JavaScript` `Data Cleaning`
 * **Why it's cool:** It visualizes how "Escapist" genres spike during economic downturns using complex, interactive graphs.
 
 ### 4. 🛍️ [CheapChat: AI Shopping Intelligence](https://github.com/yuvalmiron21/CheapChat)
 **The Project:** A modern, chat-based interface for an arbitrage deal finder.
+
 **The Tech:** `Next.js 14` `TypeScript` `Glassmorphism UI`
 * **Focus:** A production-grade frontend simulating an AI arbitrage agent.
 * **Architecture:** Features robust event tracking hooks and mock-backend logic to simulate a microservices environment.
 
 ---
 
-## 🎓 Education & Languages
+## 🎓 Education
 
-* **B.Sc. in Information Systems (AI Track), University of Haifa** (2022-2025)
-  * Focused on Full-Stack Development and AI Integration.
-  * Award-winning final project for technological innovation ("Mush").
-
+**B.Sc. in Information Systems (AI Track), University of Haifa** (2022-2025)
+* **Focus:** Data Engineering, Machine Learning pipelines, and Real-time AI systems.
+* **Key Coursework:** Deep Learning, NLP, Big Data Analytics, Cloud Computing.
+* **Final Project:** "Mush" – A fully deployed IoT & AI system for precision agriculture.
+  
 * **Languages:**
   * **Hebrew:** Native 🇮🇱
   * **English:** High Proficiency (Fluent) 🇺🇸

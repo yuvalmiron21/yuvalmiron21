@@ -1,6 +1,6 @@
 # Hi there, I'm Yuval! 👋
 
-### Full Stack Developer | Data Analyst | AI Enthusiast
+### B.Sc. Information Systems (AI Track) | Full Stack Developer | Data Analyst
 
 I bridge the gap between **complex code** and **actionable business insights**.
 With a strong background in Information Systems and operational leadership, I specialize in building data-driven platforms and analyzing complex datasets to solve real-world problems.

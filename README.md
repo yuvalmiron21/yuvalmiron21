@@ -7,21 +7,19 @@ With a strong background in Information Systems and operational leadership, I sp
 
 - 🔭 I’m currently architecting the **Backend for "Hayaanshufiya Talk"** – a standalone AI conversational service.
 - 🌱 I’m currently learning **Advanced Data Pipelines (ETL) and Cloud Architecture.**
-- 💬 Ask me about **Predictive Modeling (Prophet/ARIMA), SQL Optimization, and Business Intelligence.**
+- 💬 Ask me about **Building AI SaaS, LLM Integration, and Full Stack Architecture.**
 - 📫 How to reach me: **[Yuvalmiron21@gmail.com](mailto:Yuvalmiron21@gmail.com)**
 - ⚡ Fun fact: **I produce electronic music by night 🎹🎧**
 
 ---
-
 ## 🛠 Toolbox
 
-| **Data Analysis & Science** | **Development & Cloud** |
+| **Languages & Frameworks** | **Cloud, Databases & DevOps** |
 |:---:|:---:|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **(Pandas, NumPy)** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) **(Query Optimization)** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white) **(Visualization)** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| ![Gemini](https://img.shields.io/badge/AI-Google_Gemini-8E75B2) **(AI Integration)** | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) **(Plugin Dev)** |
-
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **(Flask, Django)** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **(Node.js, Express)** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
 ---
 
 ## 🏆 Featured Projects
@@ -56,14 +54,13 @@ With a strong background in Information Systems and operational leadership, I sp
 
 ## 🎓 Education & Languages
 
-* [cite_start]**B.Sc. in Information Systems (AI Track), University of Haifa** (2022-2025) [cite: 7]
+* **B.Sc. in Information Systems (AI Track), University of Haifa** (2022-2025)
   * Focused on Full-Stack Development and AI Integration.
-  * [cite_start]Award-winning final project for technological innovation ("Mush"). [cite: 7, 20]
+  * Award-winning final project for technological innovation ("Mush").
 
 * **Languages:**
-  * [cite_start]**Hebrew:** Native 🇮🇱 [cite: 39]
-  * [cite_start]**English:** High Proficiency (Fluent) 🇺🇸 [cite: 38]
-
+  * **Hebrew:** Native 🇮🇱
+  * **English:** High Proficiency (Fluent) 🇺🇸
 ---
 
 <div align="center">
